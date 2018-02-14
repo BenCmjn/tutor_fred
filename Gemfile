@@ -14,7 +14,7 @@ gem 'turbolinks'
 gem 'jbuilder'
 
 #BYME#
-gem 'bootstrap'
+gem 'bootstrap', '~>4.0.0'
 
 
 group :development, :test do
